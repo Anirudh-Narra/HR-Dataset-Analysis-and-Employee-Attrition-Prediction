@@ -40,11 +40,6 @@ Several models were trained and evaluated to predict employee attrition:
 - Classification reports for precision, recall, and F1-score.
 - ROC curves and AUC scores for performance comparison.
 
-## Results
-
-- **Random Forest Classifier**: Achieved the highest accuracy.
-- Detailed classification reports and ROC curves for all models.
-
 ## Installation
 
 To run this project, you'll need the following libraries:
