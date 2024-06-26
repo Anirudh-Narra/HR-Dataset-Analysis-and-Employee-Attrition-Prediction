@@ -56,6 +56,11 @@ seaborn
 matplotlib 
 scikit-learn
 ```
+You can just run the Jupyter Notebook or you can run this command seperately
+
+```
+!pip install -r requirements.txt
+```
 
 ## Usage
 
