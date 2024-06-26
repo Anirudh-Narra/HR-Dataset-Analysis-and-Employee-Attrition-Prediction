@@ -50,20 +50,24 @@ Several models were trained and evaluated to predict employee attrition:
 To run this project, you'll need the following libraries:
 
 ```
-pip install pandas numpy seaborn matplotlib scikit-learn
+pandas 
+numpy 
+seaborn 
+matplotlib 
+scikit-learn
 ```
 
 ## Usage
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/hr-analytics-attrition-prediction.git
+   git clone https://github.com/Anirudh-Narra/HR_EDA-Project.git
    cd hr-analytics-attrition-prediction
    ```
 
 2. Ensure you have the dataset (`HRDataset_v14.csv`) in the project directory.
 
-3. Run the Jupyter Notebook or Python script to execute the analysis and models.
+3. Run the Jupyter Notebook to execute the analysis and models.
 
 ## Visualizations
 
